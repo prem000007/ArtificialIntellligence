@@ -1,5 +1,3 @@
-print("A.JASWANTHI")
-print("192111382")
 print("8 queens problem")
 
 def is_safe(board, row, col):
