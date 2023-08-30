@@ -1,5 +1,3 @@
-print("A.JASWANTHI")
-print("192111382")
 graph = {
     'A': ['B', 'C'],
     'B': ['D', 'E'],
