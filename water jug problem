@@ -1,5 +1,3 @@
-print("A.JASWANTHI")
-print("192111382")
 print("water jug problem")
 def water_jug_problem(capacity_a, capacity_b, target):
     for a in range(capacity_a + 1):
